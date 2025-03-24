@@ -1,0 +1,18 @@
+{
+    "UserId": 20221019,
+    "Icon": 3000016,
+    "Card": 4000016,
+    "Name": "",
+    "Sign": "0",
+    "PlayerLevel": 1,
+    "PlayerExp": 0,
+    "WorldLevel": 6,
+    "WorldLevelNow": 6,
+    "WorldLevelCool": 0,
+    "Birth": 1130,
+    "ShowTeam": null,
+    "HideShowTeam": 0,
+    "ShowCard": null,
+    "IsProhibit": 0,
+    "IsGm": 0
+}

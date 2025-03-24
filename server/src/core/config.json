@@ -1,0 +1,10 @@
+{
+    "serverid":1,
+    "host":9090,
+    "savepath":"vite-project/save",
+    "database":{
+        "databasetype":"mysql",
+        "username":"root",
+        "password":"123456"
+    }
+}
